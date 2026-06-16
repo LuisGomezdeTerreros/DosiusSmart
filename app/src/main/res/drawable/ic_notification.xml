@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Blood drop: tip at top, circular base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,3 C8,8 6,12 6,16 A6,6,0,0,0,18,16 C18,12 16,8 12,3 Z" />
+</vector>
